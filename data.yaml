@@ -1,0 +1,12 @@
+train: C:\Dev\ultralytics\train_img
+val: C:\Dev\ultralytics\valid_img
+test: C:\Dev\ultralytics\test_img
+nc: 1
+names: ['golfball']
+
+roboflow:
+  workspace: anna-gaming
+  project: golfball
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/anna-gaming/golfball/dataset/1
