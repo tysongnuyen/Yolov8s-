@@ -2,7 +2,7 @@ train: C:\Dev\ultralytics\train_img
 val: C:\Dev\ultralytics\valid_img
 test: C:\Dev\ultralytics\test_img
 nc: 1
-names: ['golfball']
+names: ["golfball"]
 
 roboflow:
   workspace: anna-gaming
